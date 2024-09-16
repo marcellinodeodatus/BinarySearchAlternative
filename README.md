@@ -1,5 +1,5 @@
-**Adapted Binary Search using Interpolation:
-**
+Adapted Binary Search using Interpolation
+
 The method is similar to binary search but uses interpolation to estimate the index to check, rather than always going for the midpoint. 
 Interpolation assumes that the values are evenly distributed, and uses the following formula to calculate the next position to check:
 
